@@ -17,4 +17,4 @@ by iteratively applying the 4th-order Runge-Kutta method.
 ---
 
 ## 📄 Documentation
-The project includes a detailed **report in Polish** (`P1Z24_LSZ.pdf`), which explains the theory behind the method, implementation details, and test results.
+The project includes a detailed **report in Polish** (`P1Z24_LSZ.pdf`), which explains the theory behind the method, and test results.
